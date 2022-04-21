@@ -4,7 +4,7 @@ Hi 👋 My name is Aadhavan
 Frontend Engineer
 -----------------
 
-I am currently working as a Frontend Engineer at Freshworks. I love building scalable web applications. I am also good at problem solving and DSA.
+I am currently working as a Frontend Developer at Freshworks. I love building scalable web applications. I am also good at problem solving and DSA.
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [aadhavanlionel008@gmail.com](mailto:aadhavanlionel008@gmail.com)
