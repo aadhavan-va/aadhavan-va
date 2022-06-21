@@ -8,6 +8,7 @@ I am currently working as a Frontend Developer at Freshworks. I love building sc
 
 * 🌍  I'm based in Chennai
 * ✉️  You can contact me at [aadhavanlionel008@gmail.com](mailto:aadhavanlionel008@gmail.com)
+* portfolio website : https://aadhavanlio.github.io/portfolio/
 
 ### Skills
 
