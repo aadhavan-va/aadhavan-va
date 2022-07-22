@@ -23,5 +23,5 @@ I am working as a Frontend Developer at Freshworks. I love building scalable web
 
 ### Coding Profiles
 
-<p align="left">  <a href="https://leetcode.com/_Aadhavan_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="32" height="32"/></a>
+<p align="left">  <a href="https://leetcode.com/_Aadhavan_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
 </p>
