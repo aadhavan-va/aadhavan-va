@@ -20,3 +20,8 @@ I am working as a Frontend Developer at Freshworks. I love building scalable web
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/aadhavanlio" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aadhavan-va" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Coding Profiles
+
+<p align="left">  <a href="https://leetcode.com/_Aadhavan_" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" width="32" height="32"/></a>
+</p>
