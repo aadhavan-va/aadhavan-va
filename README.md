@@ -1,7 +1,7 @@
 Hi 👋 I'm Aadhavan
 =========================
 
-Frontend Engineer
+About me
 -----------------
 
 Frontend Developer with 3 years of experience. I love building scalable web applications and leetcode sometimes :)
