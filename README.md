@@ -4,7 +4,7 @@ Hi 👋 My name is Aadhavan
 Frontend Engineer
 -----------------
 
-I am working as a Frontend Developer at Freshworks. I love building scalable web applications. I am also good at problem solving and DSA. Currently exploring Javascript and React.
+Frontend Developer with 3 years of experience. I love building scalable web applications and leetcode sometimes :)
 
 
 ### Skills
