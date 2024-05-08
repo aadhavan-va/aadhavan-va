@@ -1,4 +1,4 @@
-Hi 👋 My name is Aadhavan
+Hi 👋 I'm Aadhavan
 =========================
 
 Frontend Engineer
