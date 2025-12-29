@@ -14,17 +14,18 @@ I enjoy crafting clean UI, performance-focused code, and solving problems on Lee
 ---
 
 ### 🌐 Connect with Me
-- 🌍 Website: [https://www.aadhavan-va.com](https://www.aadhavan-va.com)  
-- 💼 LinkedIn: [https://www.linkedin.com/in/aadhavan-va](https://www.linkedin.com/in/aadhavan-va)  
-- 🧑‍💻 GitHub: [https://github.com/aadhavan-va](https://github.com/aadhavan-va)
+
+- 🌍 Website: <a href="https://www.aadhavan-va.com" target="_blank" rel="noopener noreferrer">aadhavan-va.com</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/aadhavan-va" target="_blank" rel="noopener noreferrer">linkedin.com/in/aadhavan-va</a>  
+- 🧑‍💻 GitHub: <a href="https://github.com/aadhavan-va" target="_blank" rel="noopener noreferrer">github.com/aadhavan-va</a>
 
 ---
 
 ### 🧠 Coding Profiles
-- LeetCode: <https://leetcode.com/_Aadhavan_>
-- Codeforces: https://codeforces.com/profile/aadhavan_va  
-- CodeChef: https://www.codechef.com/users/aadhavan_va
 
+- LeetCode: <a href="https://leetcode.com/_Aadhavan_" target="_blank" rel="noopener noreferrer">leetcode.com/_Aadhavan_</a>  
+- Codeforces: <a href="https://codeforces.com/profile/aadhavan_va" target="_blank" rel="noopener noreferrer">codeforces.com/profile/aadhavan_va</a>  
+- CodeChef: <a href="https://www.codechef.com/users/aadhavan_va" target="_blank" rel="noopener noreferrer">codechef.com/users/aadhavan_va</a>
 ---
 
 ⭐ *Always learning, building, and improving.*
