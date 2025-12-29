@@ -21,9 +21,9 @@ I enjoy crafting clean UI, performance-focused code, and solving problems on Lee
 ---
 
 ### 🧠 Coding Profiles
-- LeetCode: https://leetcode.com/_Aadhavan_  
+- LeetCode: <https://leetcode.com/_Aadhavan_>
 - Codeforces: https://codeforces.com/profile/aadhavan_va  
-- CodeChef: https://www.codechef.com/users/aadhavan_va  
+- CodeChef: https://www.codechef.com/users/aadhavan_va
 
 ---
 
