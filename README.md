@@ -29,4 +29,3 @@ I enjoy crafting clean UI, performance-focused code, and solving problems on Lee
 ---
 
 ⭐ *Always learning, building, and improving.*
-:
